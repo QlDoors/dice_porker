@@ -18,6 +18,26 @@
             bindings = <&mo 2>;
             key-positions = <60 52>;
         };
+
+        up {
+            bindings = <&kp UP>;
+            key-positions = <52 57>;
+        };
+
+        down {
+            bindings = <&kp DOWN>;
+            key-positions = <59 57>;
+        };
+
+        right {
+            bindings = <&kp RIGHT>;
+            key-positions = <58 57>;
+        };
+
+        left {
+            bindings = <&kp LEFT>;
+            key-positions = <60 57>;
+        };
     };
 
     keymap {
