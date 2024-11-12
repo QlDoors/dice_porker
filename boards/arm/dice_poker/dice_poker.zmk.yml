@@ -1,0 +1,11 @@
+file_format: "1"
+id: dice_poker
+name: dice_poker
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+outputs:
+  - usb
+  - ble
