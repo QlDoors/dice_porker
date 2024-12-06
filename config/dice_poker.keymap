@@ -36,7 +36,7 @@
             bindings = <
 &kp GRAVE  &kp F1  &kp F2   &kp F3    &kp F4    &kp F5     &kp F6         &kp F7   &kp F8    &kp F9       &kp F10        &kp F11        &kp F12    &kp BSPC
 &kp TAB    &kp Q   &kp W    &kp UP    &kp R     &kp T      &kp HOME       &kp END  &kp UP    &kp PAGE_UP  &kp PAGE_DOWN  &kp LBKT       &kp RBKT             &kp CAPS
-&trans             &kp DEL  &kp LEFT  &kp DOWN  &kp RIGHT  &kp BACKSPACE  &kp H    &kp LEFT  &kp DOWN     &kp RIGHT      &kp BACKSPACE  &kp SQT              &kp RET
+&trans             &kp DEL  &kp LEFT  &kp DOWN  &kp RIGHT  &kp BACKSPACE  &kp DEL  &kp LEFT  &kp DOWN     &kp RIGHT      &kp BACKSPACE  &kp SQT              &kp RET
 &kp LSHFT          &kp Z    &kp X     &kp C     &kp RET    &kp B          &kp N    &kp M     &kp COMMA    &kp DOT        &kp FSLH       &kp RSHFT
 &trans     &trans           &trans    &trans               &trans                  &trans    &trans                      &trans
             >;
